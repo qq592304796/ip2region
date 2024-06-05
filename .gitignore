@@ -89,3 +89,8 @@ target
 #vscode
 .vscode
 build
+
+# 测试使用IP地址数据库文件
+/maker/java/ip.merge.txt
+
+*.exe
